@@ -146,6 +146,7 @@ Explore the **interactive dashboard** for deeper insights: [Tableau Public Link]
 - **Insurance_Analysis.xlsx** → Excel data file analysis
 - **Raw_Data/** → Folder containing raw data files
 - **Cleaned_Data.xlsx** → Cleaned data file
+- **Presentaion.pdf** → Powerpoint Presentation to convey insights to branch managers
 
 **Future Scope:** Further refine strategies with deeper machine learning insights on customer behavior & sales optimization.
 
