@@ -150,16 +150,6 @@ Explore the **interactive dashboard** for deeper insights: [Tableau Public Link]
 
 **Future Scope:** Further refine strategies with deeper machine learning insights on customer behavior & sales optimization.
 
----
-
-## Team Members
-This project was a collaborative effort by:
-- **Dimple Bathija**
-- **Insha Khan**
-- **Syed Ata Ur Rahman**
-- **Nikitha N**
-- **Shaik Mohammad Zubair**
-- **Muthyala Rachana**
 
 
 
